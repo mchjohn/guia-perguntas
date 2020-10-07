@@ -11,8 +11,8 @@ Confira o projeto completo [clicando aqui](https://github.com/mchjohn/guia-pergu
 
   <img src="https://github.com/mchjohn/guia-perguntas/blob/master/screenshots/Screenshot_1.png" />
   
-  <img src="https://github.com/mchjohn/blog_news_skate/blob/master/screenshots/Screenshot_2.png" />
+  <img src="https://github.com/mchjohn/guia-perguntas/blob/master/screenshots/Screenshot_2.png" />
 
-  <img src="https://github.com/mchjohn/blog_news_skate/blob/master/screenshots/Screenshot_3.png" />
+  <img src="https://github.com/mchjohn/guia-perguntas/blob/master/screenshots/Screenshot_3.png" />
 
-  <img src="https://github.com/mchjohn/blog_news_skate/blob/master/screenshots/Screenshot_4.png" />
+  <img src="https://github.com/mchjohn/guia-perguntas/blob/master/screenshots/Screenshot_4.png" />

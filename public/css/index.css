@@ -1,0 +1,35 @@
+.quest {
+  min-width: 250px;
+  margin: 0 20px 25px 20px;
+  padding: 8px;
+  border: solid 1px rgb(92, 92, 92);
+  border-radius: 5px;
+}
+
+.t-quest {
+  margin: 20px;
+  color: #6c6c6c;
+}
+
+.btn-res {
+  width: 75px;
+  margin-top: 8px;
+  padding: 5px;
+  background-color: transparent;
+  outline: none;
+  border: solid 1px #FAFAFA;
+  border-radius: 5px;
+  color: #FAFAFA;
+  font-size: 0.7em;
+  font-weight: 500;
+}
+
+.quest:hover p {
+  color: #b9b9b9;
+  transition: all .1s;
+}
+
+.quest:hover {
+  border: solid 1px #464646;
+  transform: translateY(1px);
+}

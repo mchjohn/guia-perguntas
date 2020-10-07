@@ -1,0 +1,19 @@
+<%- include('./partials/header') -%>
+<body>
+  <%- include('./partials/nav') -%>
+
+  <h1 class="t-quest">Perguntas:</h1>
+  
+  <div class="container">  
+    <% ask.forEach(ask => { %>
+      <div class="quest">
+        <p><%= ask.title %></p>
+        <a href="/pergunta/<%=ask.id%>">
+          <button class="btn-res">Responder</button>
+        </a>
+      </div>
+    <% }) %>
+  </div>
+
+</body>
+</html>

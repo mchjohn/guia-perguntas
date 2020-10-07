@@ -1,0 +1,21 @@
+<%- include('./partials/header') -%>
+<body>
+  <%- include('./partials/nav') -%>
+
+  <div class="container">
+    
+    <form method="POST" action="/salvar" class="form-question">
+      <h1>Realizar Pergunta.</h1>
+      <hr>
+
+      <label for="title" class="l-title">Título</label>
+      <input type="text" name="title" id="title" placeholder="Título." required>
+
+      <label for="descrip" class="l-descrip">Descrição</label>
+      <textarea name="desc" id="descrip" cols="60" rows="8" placeholder="Descreva aqui sua pergunta." required></textarea>
+
+      <button>Perguntar</button>
+    </form>
+  </div>
+</body>
+</html>
